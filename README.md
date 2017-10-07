@@ -9,7 +9,7 @@ As above
 ## What use is this to me:
 - Quick identification of BGP AS number accociated to an IP prefix
 
-## How do I use bgp-peer:
+## How do I use IP2AS:
 - Run the script: `ip2as.py`
 - Enter the IP prefix you want to look up.
 - Observe output with AS number.
